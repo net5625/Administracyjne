@@ -1,7 +1,7 @@
 import requests
 import time
 
-#url = "http://192.168.110.8:81" #Link przykładowy
+url = "http://192.168.110.8:81" #Link przykładowy
 log_file = f"log_{time.strftime('%Y%m%d_%H%M%S')}.txt"
 interval = 60
 duration = 2 * 60 * 60
