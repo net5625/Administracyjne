@@ -12,6 +12,7 @@ Katalog zawiera gotowe do zaimportowania query do Active Directory
 * UserMustSetPassword - Wyszukuje użytkowników, którzy są włączeni, a którzy nie mają ustawionego hasła.
 ## Console Applications
 Katalog ten posiada aplikacje konsolowe, które mogą być przydatne do weryfikacji lub wygenerowania przydatnych rzeczy.
+* IIS Informer - zapisuje do pliku *.json informacje o sitach z IIS - przydatne w inwentaryzacji.
 ## Python
 Katalog zawiera skrypty Python-a przydatne m.in. w testowaniu.
 * Check - sprawdza co minutę przez 2 godziny połączenie z danym adresem (przydatne w przypadku próby wykrycia problemów).
